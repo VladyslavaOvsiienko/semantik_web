@@ -1,0 +1,2851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sushi-sets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./roll_club_sushi_sets.xsd">
+	<sushi-set id="0">
+		<set-name>
+   �������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/ljubimyj.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ���� ��������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   40 ��.
+  </total-amount>
+		<set-weight>
+   960 �
+  </set-weight>
+		<price>
+   399.00 ���.
+  </price>
+		<comments-amount>
+   1
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="1">
+		<set-name>
+   ����������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/populjarnyj.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ���� ��������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   40 ��.
+  </total-amount>
+		<set-weight>
+   940 �
+  </set-weight>
+		<price>
+   439.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="2">
+		<set-name>
+   ����������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/salamandra.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ���� ��������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   24 ��.
+  </total-amount>
+		<set-weight>
+   560 �
+  </set-weight>
+		<price>
+   259.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="3">
+		<set-name>
+   ����������� ����
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/filadelfija-maks.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ���� ��������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   32 ��.
+  </total-amount>
+		<set-weight>
+   780 �
+  </set-weight>
+		<price>
+   369.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="4">
+		<set-name>
+   ���������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/kleopatra.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   32 ��.
+  </total-amount>
+		<set-weight>
+   750 �
+  </set-weight>
+		<price>
+   329.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="5">
+		<set-name>
+   ��������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/semejnyj.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ���� ��������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   64 ��.
+  </total-amount>
+		<set-weight>
+   1510 �
+  </set-weight>
+		<price>
+   635.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="6">
+		<set-name>
+   ��� ��������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/vse-vkljucheno-1.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   96 ��.
+  </total-amount>
+		<set-weight>
+   2300 �
+  </set-weight>
+		<price>
+   899.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="7">
+		<set-name>
+   ��������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/illinojs.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ���������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   24 ��.
+  </total-amount>
+		<set-weight>
+   600 �
+  </set-weight>
+		<price>
+   255.00 ���.
+  </price>
+		<comments-amount>
+   1
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="8">
+		<set-name>
+   ��������� ���
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/slivochnyj-bum.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ���� ��������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   48 ��.
+  </total-amount>
+		<set-weight>
+   1110 �
+  </set-weight>
+		<price>
+   499.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="9">
+		<set-name>
+   ���� ���
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/mego-set.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ���� ��������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   40 ��.
+  </total-amount>
+		<set-weight>
+   950 �
+  </set-weight>
+		<price>
+   539.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="10">
+		<set-name>
+   �������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2020/03/pandora-1.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   24 ��.
+  </total-amount>
+		<set-weight>
+   600 �
+  </set-weight>
+		<price>
+   235.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="11">
+		<set-name>
+   ��������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/09/stilnyj.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   50 ��.
+  </total-amount>
+		<set-weight>
+   1185 �
+  </set-weight>
+		<price>
+   489.00 ���.
+  </price>
+		<comments-amount>
+   4
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="12">
+		<set-name>
+   ������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/09/modnyj-1.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   42 ��.
+  </total-amount>
+		<set-weight>
+   975 �
+  </set-weight>
+		<price>
+   399.00 ���.
+  </price>
+		<comments-amount>
+   4
+  </comments-amount>
+		<rating>
+   4.75
+  </rating>
+	</sushi-set>
+	<sushi-set id="13">
+		<set-name>
+   ������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2018/08/jegoist-1.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   40��.
+  </total-amount>
+		<set-weight>
+   920 �
+  </set-weight>
+		<price>
+   399.00 ���.
+  </price>
+		<comments-amount>
+   2
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="14">
+		<set-name>
+   �����
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/09/trend-1.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   32 ��.
+  </total-amount>
+		<set-weight>
+   705 �
+  </set-weight>
+		<price>
+   325.00 ���.
+  </price>
+		<comments-amount>
+   9
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="15">
+		<set-name>
+   �����
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/09/smajl.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   24 ��.
+  </total-amount>
+		<set-weight>
+   555 �
+  </set-weight>
+		<price>
+   249.00 ���.
+  </price>
+		<comments-amount>
+   7
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="16">
+		<set-name>
+   ���������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/dsc01129.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   40 ��.
+  </total-amount>
+		<set-weight>
+   950 �
+  </set-weight>
+		<price>
+   385.00 ���.
+  </price>
+		<comments-amount>
+   2
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="17">
+		<set-name>
+   ����
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/set-lion.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   34 ��.
+  </total-amount>
+		<set-weight>
+   770 �
+  </set-weight>
+		<price>
+   311.00 ���.
+  </price>
+		<comments-amount>
+   1
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="18">
+		<set-name>
+   ������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/set-dublen.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� ������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   26 ��.
+  </total-amount>
+		<set-weight>
+   570 �
+  </set-weight>
+		<price>
+   225.00 ���.
+  </price>
+		<comments-amount>
+   6
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="19">
+		<set-name>
+   �����
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/set-kombo.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   40 ��.
+  </total-amount>
+		<set-weight>
+   940 �
+  </set-weight>
+		<price>
+   379.00 ���.
+  </price>
+		<comments-amount>
+   3
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="20">
+		<set-name>
+   ������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/snt-chilaud.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ��� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   42 ��.
+  </total-amount>
+		<set-weight>
+   950 �
+  </set-weight>
+		<price>
+   375.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="21">
+		<set-name>
+   ���������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/set-galaktika.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     ���� ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� ���� �� ������� ������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� ���� � ��������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ � �����
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ � ��������� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������� �����
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   64 ��.
+  </total-amount>
+		<set-weight>
+   1380 �
+  </set-weight>
+		<price>
+   589.00 ���.
+  </price>
+		<comments-amount>
+   2
+  </comments-amount>
+		<rating>
+   4.50
+  </rating>
+	</sushi-set>
+	<sushi-set id="22">
+		<set-name>
+   ������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/set-katana.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   42 ��.
+  </total-amount>
+		<set-weight>
+   910 �
+  </set-weight>
+		<price>
+   439.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="23">
+		<set-name>
+   ����������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/set-madagaskar.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   34 ��.
+  </total-amount>
+		<set-weight>
+   770 �
+  </set-weight>
+		<price>
+   315.00 ���.
+  </price>
+		<comments-amount>
+   1
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="24">
+		<set-name>
+   ��������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/set-sajonara.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� ���� � ��������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� ���� �� ������� ������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   42 ��.
+  </total-amount>
+		<set-weight>
+   860 �
+  </set-weight>
+		<price>
+   359.00 ���.
+  </price>
+		<comments-amount>
+   2
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="25">
+		<set-name>
+   ��� �����������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/bum-filadelfij.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   32 ��.
+  </total-amount>
+		<set-weight>
+   770 �
+  </set-weight>
+		<price>
+   343.00 ���.
+  </price>
+		<comments-amount>
+   6
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="26">
+		<set-name>
+   ������ ����
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/08/4-hita.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   32 ��.
+  </total-amount>
+		<set-weight>
+   760 �
+  </set-weight>
+		<price>
+   355.00 ���.
+  </price>
+		<comments-amount>
+   2
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="27">
+		<set-name>
+   ���������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/04/set-banketny-j.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ��������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ �� ������� ������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   90 ��.
+  </total-amount>
+		<set-weight>
+   1990 �
+  </set-weight>
+		<price>
+   799.00 ���.
+  </price>
+		<comments-amount>
+   2
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="28">
+		<set-name>
+   �������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/04/set-vatikan.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ���������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   40 ��.
+  </total-amount>
+		<set-weight>
+   970 �
+  </set-weight>
+		<price>
+   395.00 ���.
+  </price>
+		<comments-amount>
+   2
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="29">
+		<set-name>
+   �������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/04/set-michigan.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   34 ��.
+  </total-amount>
+		<set-weight>
+   760 �
+  </set-weight>
+		<price>
+   335.00 ���.
+  </price>
+		<comments-amount>
+   6
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="30">
+		<set-name>
+   ���������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/04/set-vecherinka.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ��������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� �� ������� ������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ �� ������� ������
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ � �����
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ ������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   74 ��.
+  </total-amount>
+		<set-weight>
+   1650 �
+  </set-weight>
+		<price>
+   649.00 ���.
+  </price>
+		<comments-amount>
+   1
+  </comments-amount>
+		<rating>
+   4.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="31">
+		<set-name>
+   �������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2019/04/set-favorit.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ �� ������� ������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   30 ��.
+  </total-amount>
+		<set-weight>
+   790 �
+  </set-weight>
+		<price>
+   315.00 ���.
+  </price>
+		<comments-amount>
+   10
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="32">
+		<set-name>
+   ������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2018/10/CHikago.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� ������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   52 ��.
+  </total-amount>
+		<set-weight>
+   1130 �
+  </set-weight>
+		<price>
+   509.00 ���.
+  </price>
+		<comments-amount>
+   5
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="33">
+		<set-name>
+   ���������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2018/08/set-Firmenny-j-1.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���� � ������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���� � ��������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     10 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ ����� ������
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ �������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ ������� �����
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   64 ��.
+  </total-amount>
+		<set-weight>
+   1340 �
+  </set-weight>
+		<price>
+   599.00 ���.
+  </price>
+		<comments-amount>
+   None
+  </comments-amount>
+		<rating>
+   None
+  </rating>
+	</sushi-set>
+	<sushi-set id="34">
+		<set-name>
+   ��� ������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2017/08/dlya-odnogo.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� Classic
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ ����� � ���������
+    </ingredient-name>
+				<ingredient-amount>
+     1 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ � ������
+    </ingredient-name>
+				<ingredient-amount>
+     1 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ � �����
+    </ingredient-name>
+				<ingredient-amount>
+     1 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   11 ��.
+  </total-amount>
+		<set-weight>
+   300 �
+  </set-weight>
+		<price>
+   179.00 ���.
+  </price>
+		<comments-amount>
+   3
+  </comments-amount>
+		<rating>
+   4.67
+  </rating>
+	</sushi-set>
+	<sushi-set id="35">
+		<set-name>
+   ������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2017/08/kariby-.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     Unagi Cheese
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   40 ��.
+  </total-amount>
+		<set-weight>
+   940 �
+  </set-weight>
+		<price>
+   429.00 ���.
+  </price>
+		<comments-amount>
+   10
+  </comments-amount>
+		<rating>
+   4.80
+  </rating>
+	</sushi-set>
+	<sushi-set id="36">
+		<set-name>
+   ����-���
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2017/08/mini-set-1.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     Unagi Cheese
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     1 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � ���������
+    </ingredient-name>
+				<ingredient-amount>
+     1 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ � ������
+    </ingredient-name>
+				<ingredient-amount>
+     1 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ � �����
+    </ingredient-name>
+				<ingredient-amount>
+     1 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   20 ��.
+  </total-amount>
+		<set-weight>
+   490 �
+  </set-weight>
+		<price>
+   259.00 ���.
+  </price>
+		<comments-amount>
+   9
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="37">
+		<set-name>
+   ��� �����
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2017/08/dlya-dvoih.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���� � ��������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   42 ��.
+  </total-amount>
+		<set-weight>
+   900 �
+  </set-weight>
+		<price>
+   369.00 ���.
+  </price>
+		<comments-amount>
+   20
+  </comments-amount>
+		<rating>
+   4.90
+  </rating>
+	</sushi-set>
+	<sushi-set id="38">
+		<set-name>
+   �����������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2016/10/har-kovskij.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ���
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ��������
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���� �
+    </ingredient-name>
+				<ingredient-amount>
+     �������� 6��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ����� ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ���� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     6 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ �� ������� ������
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ � �����
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ ����� � �������
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   80 ��.
+  </total-amount>
+		<set-weight>
+   1810 �
+  </set-weight>
+		<price>
+   689.00 ���.
+  </price>
+		<comments-amount>
+   1
+  </comments-amount>
+		<rating>
+   5.00
+  </rating>
+	</sushi-set>
+	<sushi-set id="39">
+		<set-name>
+   ������
+  </set-name>
+		<image>
+   https://roll-club.kh.ua/wp-content/uploads/2015/10/krejzi.jpg
+  </image>
+		<ingredients>
+			<ingredient>
+				<ingredient-name>
+     ����������� ����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     �����
+    </ingredient-name>
+				<ingredient-amount>
+     8 ��.
+    </ingredient-amount>
+			</ingredient>
+			<ingredient>
+				<ingredient-name>
+     ������ � ������
+    </ingredient-name>
+				<ingredient-amount>
+     2 ��.
+    </ingredient-amount>
+			</ingredient>
+		</ingredients>
+		<total-amount>
+   34 ��.
+  </total-amount>
+		<set-weight>
+   810 �
+  </set-weight>
+		<price>
+   365.00 ���.
+  </price>
+		<comments-amount>
+   13
+  </comments-amount>
+		<rating>
+   4.92
+  </rating>
+	</sushi-set>
+</sushi-sets>
